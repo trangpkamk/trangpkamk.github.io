@@ -23,22 +23,22 @@ into a broader role with strategic and technical ownership.
 Here are a few sample projects I’ve worked on. More coming soon!
 
 ### 📌 [World Covid Analysis]
-**Description:** With the raw data from 'Our World in Data', I processed the analysis using SQL and created a Dashboard on Tableau Public to illustrate the findings  
-**Tech:** Microsoft SQL Server Management Studio (SSMS), Tableau 
+**Description:** With the raw data from 'Our World in Data', I processed the analysis using SQL and created a Dashboard on Tableau Public to illustrate the findings <br> 
+**Tech:** Microsoft SQL Server Management Studio (SSMS), Tableau <br>
 **Link:** https://trangpkamk.github.io/Project%201.html
 
 ---
 
 ### 📌 [Data Cleaning Project with SQL]
-**Description:** With the Sample data "Nasville Housing", data cleaning was performed with SQL, Tasks include: Deleting duplicates, Filling in blank, Splitting to columns, etc. 
-**Tech:** SQL
+**Description:** With the Sample data "Nasville Housing", data cleaning was performed with SQL, Tasks include: Deleting duplicates, Filling in blank, Splitting to columns, etc. <br>
+**Tech:** SQL<br>
 **Link:** https://trangpkamk.github.io/Project%202.html
 
 ---
 
 ### 📌 [Ebay company profile Dashboard]
-**Description:** Building Tableau dashboard of ebay company profile from various online sources
-**Tech:** Tableau
+**Description:** Building Tableau dashboard of ebay company profile from various online sources<br>
+**Tech:** Tableau<br>
 **Link:** https://trangpkamk.github.io/Project%203.html
 
 ---
