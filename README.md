@@ -6,7 +6,7 @@ Welcome to my portfolio! I'm excited to share a collection of projects and work 
 
 ## 👩‍💻 About Me
 
-Proactive and detail-oriented Salesforce Administrator with 2+ years of hands-on
+Proactive and detail-oriented Salesforce Administrator with several years of hands-on
 experience managing user support, automation, and platform optimization across sales,
 operation and finance teams. Previously a Market Research Analyst with extensive
 Salesforce CRM use, bringing a strong data mindset and user empathy. Seeking to grow
@@ -45,4 +45,4 @@ Here are a few sample projects I’ve worked on. More coming soon!
 ### 📌 [Portfolio Company Performance Dashboard (Power BI)]
 **Description:** This hands-on discovery project showcases a Private Equity (PE) Portfolio Performance Dashboard, built in Power BI. It presents key financial metrics and investment KPIs for a portfolio of 50 companies, designed to reflect the real-world reporting needs of a PE firm.<br>
 **Tech:** PowerBI<br>
-**Link:** https://trangpkamk.github.io/Project%203.html
+**Link:** https://trangpkamk.github.io/Project%204.html
