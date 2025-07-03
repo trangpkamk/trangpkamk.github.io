@@ -42,4 +42,7 @@ Here are a few sample projects I’ve worked on. More coming soon!
 **Link:** https://trangpkamk.github.io/Project%203.html
 
 ---
-
+### 📌 [Portfolio Company Performance Dashboard (Power BI)]
+**Description:** This hands-on discovery project showcases a Private Equity (PE) Portfolio Performance Dashboard, built in Power BI. It presents key financial metrics and investment KPIs for a portfolio of 50 companies, designed to reflect the real-world reporting needs of a PE firm.<br>
+**Tech:** PowerBI<br>
+**Link:** https://trangpkamk.github.io/Project%203.html
